@@ -1,4 +1,4 @@
-# cheatsheet
+# My notes on statistics
 
 ## Statistics
 1. [mean_median_mode.ipynb](https://github.com/ksonod/my_statistics/blob/master/mean_median_mode.ipynb)
